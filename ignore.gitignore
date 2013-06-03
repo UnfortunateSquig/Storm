@@ -1,0 +1,57 @@
+#OS Junk Files
+[Tt]humbs.db
+*.DS_Store
+
+Build
+Unity/Library
+Unity/Assets/_Assemblies
+Unity/Assembly-CSharp*
+Unity/MechProject-csharp*
+Unity/Unity.sln
+Unity/Unity-csharp.sln
+
+#Visual Studio Files
+*.[Oo]bj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+#Tooling
+_Resharper*/
+*.resharper
+*.vs10x
+[Tt]est[Rr]esult*
+
+#Project Files
+[Bb]uild/
+
+#Subversion Files
+.svn
+
+#Office Temp Files
+~$*
+Temp
+/*.sln
